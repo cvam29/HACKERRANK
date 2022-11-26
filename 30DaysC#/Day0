@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+
+class Solution {
+    static void Main(String[] args) {
+       
+        String inputString; 
+        
+       
+        inputString = Console.ReadLine(); 
+        
+        // Print a string literal saying "Hello, World." to stdout using cout.
+        Console.WriteLine("Hello, World.");
+        
+        
+    }
+}
